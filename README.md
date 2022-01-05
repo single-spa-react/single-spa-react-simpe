@@ -1,8 +1,8 @@
-<h1 align="center">single-spa-react-simpe</h1>
+<h1 align="center">single-spa-react-simple</h1>
 
 <div align="center">
 
-single-spa-react-simple 非常简单基础的微前端demo 🚀🚀🚀,适合没有相关开发经验或者有非常丰富经验需要定制开发的同学！
+single-spa-react-simple 非常简单基础的微前端demo 🚀🚀🚀,适合没有相关开发经验或者有非常丰富经验需要定制开发的同学！没有任何状态管理库！
 
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/single-spa-react/single-spa-react-simple#readme) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/single-spa-react/single-spa-react-simple/graphs/commit-activity) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/single-spa-react/single-spa-react-simple/blob/master/LICENSE)
 
