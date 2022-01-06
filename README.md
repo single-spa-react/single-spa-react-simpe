@@ -17,6 +17,26 @@ $ npm install
 $ npm start
 ```
 
+注意⚠️： 
+
+react-router-dom v6版本的使用方式有较大改动：
+
+Switch --> Routes
+
+Component ---> element
+
+```js
+<Routes>
+   {routes.map((route, index) => (
+   <Route key={index}
+      routeKey={route.key}
+      exact={route.exact}
+      path={route.path}
+      element={route.element} />
+   ))}
+</Routes>
+```
+
 打开浏览器访问 http://127.0.0.1:8000/project1/。
 
 ## 相关资料： 
